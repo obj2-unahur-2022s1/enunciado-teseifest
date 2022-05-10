@@ -59,8 +59,8 @@ Las bebidas disponibles son:
 |:----:|:--------------:|:---------------:|
 |agua|500|        0        |
 |gaseosa|354|        0        |
-|cerveza|400|       0.5       |
-|vermut|400|       0.7       |
+|cerveza|400|      5       |
+|vermut|400|       7       |
 |vino blanco|400|      11.0       |
 |vino tinto|400|      14.0       |
 |tragos (fernet con coca, campari, gin tonic,mojito)|400|      14.0       |
